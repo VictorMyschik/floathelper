@@ -1,0 +1,19 @@
+{
+    "name": "viktor50/floathelper",
+    "description": "Helper for work with numbers",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Victor Myschik",
+            "email": "allximik50@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "FloatHelper\\": ""
+        }
+    },
+    "require": {}
+}
