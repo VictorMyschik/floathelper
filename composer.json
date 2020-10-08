@@ -1,6 +1,6 @@
 {
     "name": "viktor50/floathelper",
-    "version": "1.0.0"
+    "version": "1.0.0",
     "description": "Helper for work with numbers",
     "type": "library",
     "license": "MIT",
